@@ -62,6 +62,7 @@ The app is deployed on AWS, making it accessible remotely.
 The segmentation accuracy is high, making it useful for medical professionals.
 
 **Right Now We are not sharing the FLutter Code used for the mobile Developement**
+
 **Impact**
 
 This project can assist radiologists and healthcare professionals in faster and more accurate medical image analysis, reducing manual efforts in segmentation. It also has the potential to be integrated into hospital systems for automated diagnostics.
