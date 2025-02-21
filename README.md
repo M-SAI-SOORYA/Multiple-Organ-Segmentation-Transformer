@@ -61,6 +61,8 @@ The app is deployed on AWS, making it accessible remotely.
 
 The segmentation accuracy is high, making it useful for medical professionals.
 
+![Screenshot 2024-01-11 100726](https://github.com/user-attachments/assets/92d61389-0c18-44ee-b16f-efc30e47f417)
+
 **Right Now We are not sharing the FLutter Code used for the mobile Developement**
 
 **Impact**
