@@ -1,6 +1,9 @@
 # Multiple-Organ-Segmnetation-Transformer
 So yeah, we as a team of 6 members developed a mobile application that can automatically segment multiple organs from abdominal CT scans using Generative AI. This means the app takes a CT scan as input and highlights different organs separately, making it useful for medical diagnosis and analysis. The project combines deep learning and Transformers, mobile development, and cloud computing to create a seamless end-to-end solution.
 
+![Screenshot 2024-01-11 100726](https://github.com/user-attachments/assets/92d61389-0c18-44ee-b16f-efc30e47f417)
+
+
 How It Works
 User Interaction
 
@@ -61,7 +64,7 @@ The app is deployed on AWS, making it accessible remotely.
 
 The segmentation accuracy is high, making it useful for medical professionals.
 
-![Screenshot 2024-01-11 100726](https://github.com/user-attachments/assets/92d61389-0c18-44ee-b16f-efc30e47f417)
+
 
 **Right Now We are not sharing the FLutter Code used for the mobile Developement**
 
