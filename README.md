@@ -5,27 +5,6 @@ So yeah, we as a team of 6 members developed a mobile application that can autom
 
 ![Screenshot 2025-04-10 173941](https://github.com/user-attachments/assets/37e3c1ae-9feb-451f-8294-742bbad52622)
 
-
-How It Works
-User Interaction
-
-**Step 1**: Users upload a CT scan image in the app.
-
-**Step 2**:The AI model processes the image and segments different organs.
-
-**Step 3**:The result is displayed in the app, showing which organ is where.
-
-**Technology Stack**
-
-**Front-end**: Built using Flutter for a smooth mobile experience.
-
-**Backend**: Flask API handles requests and runs the deep learning model.
-
-__Deep Learning__: TensorFlow framework is used to train the model.
-
-**Cloud Deployment**: AWS cloud services help deploy and run the model efficiently.
-
-
 **Dataset Used**
 
 The model is trained on the Synapse multi-organ segmentation dataset, which contains abdominal CT scan images labeled with different organs.
@@ -65,6 +44,33 @@ A fully functional mobile application where users can upload CT scan images of a
 The app is deployed on AWS, making it accessible remotely.
 
 The segmentation accuracy is high, making it useful for medical professionals.
+
+
+
+![Screenshot 2024-01-11 100726](https://github.com/user-attachments/assets/8c9467bf-ae9b-409f-826f-f732feb360f5)
+
+
+
+How It Works
+User Interaction
+
+**Step 1**: Users upload a CT scan image in the app.
+
+**Step 2**:The AI model processes the image and segments different organs.
+
+**Step 3**:The result is displayed in the app, showing which organ is where.
+
+
+
+**Technology Stack**
+
+**Front-end**: Built using Flutter for a smooth mobile experience.
+
+**Backend**: Flask API handles requests and runs the deep learning model.
+
+__Deep Learning__: TensorFlow framework is used to train the model.
+
+**Cloud Deployment**: AWS cloud services help deploy and run the model efficiently.
 
 
 
